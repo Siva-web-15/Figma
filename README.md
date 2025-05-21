@@ -89,7 +89,8 @@ QUERY PAGE
 ```
 ## OUTPUT:
 
-![output](<Screenshot (59).png>)
+![image](https://github.com/user-attachments/assets/3891e2e3-c23a-4202-83f7-27033147b0e1)
+
 
 
 ## RESULT:
